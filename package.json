@@ -1,0 +1,27 @@
+{
+  "name": "awale",
+  "version": "1.0.0",
+  "description": "Awalé Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebmtranceboy/awale.git"
+  },
+  "keywords": [
+    "Game",
+    "Board",
+    "Telegram"
+  ],
+  "author": "Ebmtranceboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ebmtranceboy/awale/issues"
+  },
+  "homepage": "https://github.com/Ebmtranceboy/awale#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}

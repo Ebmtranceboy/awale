@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Ebmtranceboy/awale#readme",
   "dependencies": {
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
